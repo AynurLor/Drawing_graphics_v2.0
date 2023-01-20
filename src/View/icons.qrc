@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../Icons/3dViewer.ico</file>
+        <file>../Icons/aboutico.ico</file>
+        <file>../Icons/gif.ico</file>
+        <file>../Icons/info.ico</file>
+        <file>../Icons/jpg.ico</file>
+        <file>../Icons/scene.ico</file>
+        <file>../Icons/settings.ico</file>
+    </qresource>
+</RCC>
